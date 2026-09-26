@@ -17,11 +17,16 @@ export const statusLabels: Record<ProjectStatus, string> = {
 // never production readiness inferred from commits, workflow success or stars.
 export const projects: Project[] = [
   {
-    id: 'national-exam-system', name: 'National Exam System', status: 'case-study', category: 'systems', featured: true, order: 1,
-    subtitle: 'Professional experience', summary: 'An employment project. The public case study is awaiting details from my résumé.',
-    currentState: 'Confirmed by the owner as employment work. Role, technologies, scope and outcomes will be added from the résumé.',
-    statusNote: 'Employment project confirmed by the owner; public case-study details are pending.',
-    stack: [], highlights: [], why: '', problem: '', architecture: [], decisions: [], accent: 'pink', pendingDetails: true,
+    id: 'national-exam-system', name: 'National Exam System', status: 'shipped', category: 'systems', featured: true, order: 1,
+    subtitle: 'Examination delivery · 20,000+ candidates', summary: 'A realtime examination system delivered across two exam rounds, nearly 10 localities and approximately 20 examination sites.',
+    currentState: 'Delivered during my time at G-Connect (Feb 2024–Dec 2025). I worked as a fullstack developer and module team lead under the Tech Lead / PM. The résumé reports more than 20,000 candidates served across two rounds; it does not state a peak concurrent-user count.',
+    statusNote: 'Employment case study based on the owner-provided résumé. Shipped refers to the two documented exam deployments. Source code is not public.',
+    stack: ['ASP.NET Core', 'React / TypeScript', 'MySQL', 'SignalR / WebSocket', 'Redis', 'RabbitMQ', 'Duende IdentityServer', 'Docker'],
+    highlights: ['Realtime connections and reconnect handling', 'Autosave and simultaneous submission handling', 'Configuration and security ownership', 'Schema, index and batch-processing optimization', 'OMR / OCR grading optimization', 'Docker and basic on-premise CI/CD'],
+    why: 'Support examination organization, delivery and management for the Ministry of Education and Training.',
+    problem: 'Keep candidate data and examination submissions reliable through unstable networks, overloaded connections and simultaneous submissions.',
+    architecture: [],
+    decisions: ['Handle reconnects, overload and autosave through SignalR / WebSocket workflows.', 'Refactor database schemas, tune indexes and process data in parallel batches.', 'Apply OWASP Top 10 practices, AES / ECC and access controls, contributing to the system reaching Vietnamese information-security Level 3.', 'Package with Docker and automate basic build / deployment to private on-premise servers.'], accent: 'pink',
   },
   {
     id: 'queueguard', name: 'QueueGuard', repo: 'Loccao102/Queueguard', status: 'source', category: 'systems', featured: true, order: 2,
@@ -139,4 +144,4 @@ export const projects: Project[] = [
 export const featuredProjects = projects.filter(p => p.featured).sort((a, b) => a.order - b.order);
 export const nowProjects = ['habi', 'city-of-lies', 'sen', 'videoget'].map(id => projects.find(p => p.id === id)!);
 export const getProject = (id: string) => projects.find(p => p.id === id);
-export const profile = { name: 'Cao Tiến Lộc', location: 'Hanoi, Vietnam', github: 'https://github.com/Loccao102', email: '', resumeUrl: '' };
+export const profile = { name: 'Cao Tiến Lộc', location: 'Hanoi, Vietnam', github: 'https://github.com/Loccao102', linkedin: 'https://www.linkedin.com/in/cao-loc-46742b247', email: '', resumeUrl: '' };

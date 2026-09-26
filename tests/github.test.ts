@@ -46,9 +46,9 @@ test('handles empty release lists and ignores drafts and prereleases', () => {
   assert.equal(normalizeRepository(repo, metadata, commits, { workflow_runs: [] }, [release, { ...release, draft: false, prerelease: true }], fetchedAt)?.release, null);
   assert.equal(safeWebUrl('javascript:alert(1)'), null); assert.equal(safeWebUrl('https://user:password@example.com'), null);
 });
-test('every public project has pinned evidence, while employment details stay pending', () => {
+test('public projects have pinned repository evidence, while employment has no fabricated repository', () => {
   for (const project of projects.filter(p => p.repo)) { assert.equal(project.evidence?.repo, project.repo); assert.ok(project.evidence?.files.some(f => f.path === 'README.md')); for (const file of project.evidence!.files) assert.ok(file.url.startsWith(`https://github.com/${project.repo}/blob/${project.evidence!.ref}/`)); }
   const employment = projects.find(p => p.id === 'national-exam-system')!;
-  assert.equal(employment.pendingDetails, true); assert.deepEqual(employment.stack, []); assert.deepEqual(employment.architecture, []);
+  assert.equal(employment.repo, undefined); assert.equal(employment.evidence, undefined); assert.deepEqual(employment.architecture, []);
   assert.equal(projects.find(p => p.id === 'void-weaver')?.plannedStack, true);
 });

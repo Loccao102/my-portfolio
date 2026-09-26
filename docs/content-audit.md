@@ -15,7 +15,9 @@ Reviewed September 26, 2026. Ten public repositories and 30 source files are rec
 | 3D Showcase / 3D-showcase | README reports engine V1 complete with Next.js/R3F and Go/Gin. Production hardening remains. No Actions result is shown when the API returns none. |
 | Void Weaver / Void-Weaver | Documentation-only concept. React/Three.js/MediaPipe/GLSL are suggested technologies, clearly labeled as proposed. |
 
-National Exam System is an employment project, confirmed by the owner. Its case study awaits the CV. Technology, responsibilities, architecture, employer and impact numbers remain unspecified.
+National Exam System is an employment project at G-Connect, based on the owner's two-page résumé received September 26, 2026. Page 2 supplies the role (Fullstack Developer / Module Team Lead under Tech Lead / PM), stack, two exam deployments and outcomes. More than 20,000 candidates were served; 200,000 is the size of a processing dataset, not a concurrent-user count. Processing dropped from 15 minutes to 30 seconds; OMR/OCR grading dropped from 2 hours to 15 minutes. These are résumé-reported outcomes, not independently reproduced measurements. No architecture topology or public source repository is invented. The employment period is Feb 2024–Dec 2025; exact examination project dates are not separately supplied.
+
+The About page adds résumé-backed roles at myG (Jun 2026–present), NIQ Vietnam (Jan–Jun 2026) and G-Connect, along with skills, education and language levels. The original PDF and personal contact details are not included in the public repository by default. LinkedIn is the professional profile supplied in the CV.
 
 ## Refresh rules
 
