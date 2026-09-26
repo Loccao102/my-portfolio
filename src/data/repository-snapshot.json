@@ -1,0 +1,313 @@
+{
+  "capturedAt": "2026-09-26T02:39:00.742Z",
+  "repositories": [
+    {
+      "repo": "Loccao102/Queueguard",
+      "url": "https://github.com/Loccao102/Queueguard",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-07T02:57:26Z",
+      "pushedAt": "2026-09-07T02:57:21Z",
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": "MIT",
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "04ce31dc9233491488d10b0d4afc69c197c6b568",
+        "url": "https://github.com/Loccao102/Queueguard/commit/04ce31dc9233491488d10b0d4afc69c197c6b568",
+        "message": "feat: add cloudflare edge worker, client sdk, and backend middleware for go, node, php",
+        "date": "2026-09-07T02:57:11Z"
+      },
+      "workflows": [
+        {
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/Queueguard/actions/runs/34077994013",
+          "sha": "04ce31dc9233491488d10b0d4afc69c197c6b568"
+        }
+      ],
+      "release": null
+    },
+    {
+      "repo": "Loccao102/Agent-Guard",
+      "url": "https://github.com/Loccao102/Agent-Guard",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-12T11:27:30Z",
+      "pushedAt": "2026-09-12T11:27:26Z",
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": "NOASSERTION",
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "1a717e10c5a44665b0318a522756eed44bae498b",
+        "url": "https://github.com/Loccao102/Agent-Guard/commit/1a717e10c5a44665b0318a522756eed44bae498b",
+        "message": "chore: polish AgentGuard v1 source",
+        "date": "2026-09-12T11:27:26Z"
+      },
+      "workflows": [
+        {
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/Agent-Guard/actions/runs/34691101595",
+          "sha": "1a717e10c5a44665b0318a522756eed44bae498b"
+        }
+      ],
+      "release": null
+    },
+    {
+      "repo": "Loccao102/city-of-lies",
+      "url": "https://github.com/Loccao102/city-of-lies",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-25T09:43:07Z",
+      "pushedAt": "2026-09-25T09:43:04Z",
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": "MIT",
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "f19684dfb425f245b2dcf274b0e752747b66281c",
+        "url": "https://github.com/Loccao102/city-of-lies/commit/f19684dfb425f245b2dcf274b0e752747b66281c",
+        "message": "docs: add visual gameplay gallery to README and update Docker base images",
+        "date": "2026-09-25T09:42:57Z"
+      },
+      "workflows": [
+        {
+          "name": "Race Detection",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/city-of-lies/actions/runs/36119996385",
+          "sha": "f19684dfb425f245b2dcf274b0e752747b66281c"
+        },
+        {
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/city-of-lies/actions/runs/36119996256",
+          "sha": "f19684dfb425f245b2dcf274b0e752747b66281c"
+        }
+      ],
+      "release": null
+    },
+    {
+      "repo": "Loccao102/SaasQuanLyPhongTro",
+      "url": "https://github.com/Loccao102/SaasQuanLyPhongTro",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-25T08:27:54Z",
+      "pushedAt": "2026-09-25T10:10:46Z",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": null,
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "c9f1c09b1c492309f425aa504029ed878bc92861",
+        "url": "https://github.com/Loccao102/SaasQuanLyPhongTro/commit/c9f1c09b1c492309f425aa504029ed878bc92861",
+        "message": "Complete draft primary-tenant replacement workflow",
+        "date": "2026-09-25T08:27:49Z"
+      },
+      "workflows": [
+        {
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/SaasQuanLyPhongTro/actions/runs/36113053790",
+          "sha": "c9f1c09b1c492309f425aa504029ed878bc92861"
+        }
+      ],
+      "release": null
+    },
+    {
+      "repo": "Loccao102/VeyraBot",
+      "url": "https://github.com/Loccao102/VeyraBot",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-26T02:27:03Z",
+      "pushedAt": "2026-09-26T02:27:19Z",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": null,
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "5be0c20deaf5b6e92763985e1b47e9e022c51b83",
+        "url": "https://github.com/Loccao102/VeyraBot/commit/5be0c20deaf5b6e92763985e1b47e9e022c51b83",
+        "message": "feat: Sen Desktop v0.2 — Windows installer, startup and pin",
+        "date": "2026-09-26T02:26:58Z"
+      },
+      "workflows": [
+        {
+          "name": "Publish Sen Playground",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/VeyraBot/actions/runs/36211723040",
+          "sha": "5be0c20deaf5b6e92763985e1b47e9e022c51b83"
+        }
+      ],
+      "release": null
+    },
+    {
+      "repo": "Loccao102/VideoGet",
+      "url": "https://github.com/Loccao102/VideoGet",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-22T10:20:07Z",
+      "pushedAt": "2026-09-22T10:20:02Z",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": null,
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "2a4423e45d8a0c28176256683758ebdc381866f0",
+        "url": "https://github.com/Loccao102/VideoGet/commit/2a4423e45d8a0c28176256683758ebdc381866f0",
+        "message": "Fix Docker build context for browser profiles",
+        "date": "2026-09-22T10:20:02Z"
+      },
+      "workflows": [
+        {
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/VideoGet/actions/runs/35715396641",
+          "sha": "2a4423e45d8a0c28176256683758ebdc381866f0"
+        }
+      ],
+      "release": null
+    },
+    {
+      "repo": "Loccao102/E-Classroom",
+      "url": "https://github.com/Loccao102/E-Classroom",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T04:09:01Z",
+      "pushedAt": "2026-09-14T19:19:44Z",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": null,
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "502ec1b854eb53848e8256ffe757065491603930",
+        "url": "https://github.com/Loccao102/E-Classroom/commit/502ec1b854eb53848e8256ffe757065491603930",
+        "message": "Add bulk import/export onboarding workflow (#27)",
+        "date": "2026-09-14T04:08:57Z"
+      },
+      "workflows": [
+        {
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/E-Classroom/actions/runs/34804978393",
+          "sha": "502ec1b854eb53848e8256ffe757065491603930"
+        }
+      ],
+      "release": null
+    },
+    {
+      "repo": "Loccao102/a-mini-SIEM-platform",
+      "url": "https://github.com/Loccao102/a-mini-SIEM-platform",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-06T17:46:18Z",
+      "pushedAt": "2026-09-06T17:57:24Z",
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": null,
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "054b1f2770ff1176e453412bac424201d56b30d0",
+        "url": "https://github.com/Loccao102/a-mini-SIEM-platform/commit/054b1f2770ff1176e453412bac424201d56b30d0",
+        "message": "Merge pull request #3 from Loccao102/release",
+        "date": "2026-09-06T17:46:13Z"
+      },
+      "workflows": [
+        {
+          "name": "Sync Release Branch",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/a-mini-SIEM-platform/actions/runs/34049632150",
+          "sha": "054b1f2770ff1176e453412bac424201d56b30d0"
+        },
+        {
+          "name": "Build and deploy",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/Loccao102/a-mini-SIEM-platform/actions/runs/34049632334",
+          "sha": "054b1f2770ff1176e453412bac424201d56b30d0"
+        }
+      ],
+      "release": null
+    },
+    {
+      "repo": "Loccao102/3D-showcase",
+      "url": "https://github.com/Loccao102/3D-showcase",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-18T17:43:00Z",
+      "pushedAt": "2026-09-18T17:43:52Z",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": null,
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "f2b5940e68d6b26a62566a2dc69fa6bbd92e9a66",
+        "url": "https://github.com/Loccao102/3D-showcase/commit/f2b5940e68d6b26a62566a2dc69fa6bbd92e9a66",
+        "message": "Hero V8: art-directed Astra One geometry and responsive polish",
+        "date": "2026-09-18T17:42:55Z"
+      },
+      "workflows": [],
+      "release": null
+    },
+    {
+      "repo": "Loccao102/Void-Weaver",
+      "url": "https://github.com/Loccao102/Void-Weaver",
+      "description": null,
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-12T11:14:05Z",
+      "pushedAt": "2026-09-12T11:14:02Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "homepage": null,
+      "license": null,
+      "fetchedAt": "2026-09-26T02:39:00.742Z",
+      "commit": {
+        "sha": "d3c05bf2126cbe5aa2bd942ac1d664fc543291ed",
+        "url": "https://github.com/Loccao102/Void-Weaver/commit/d3c05bf2126cbe5aa2bd942ac1d664fc543291ed",
+        "message": "docs: add cosmic entity design bible",
+        "date": "2026-09-12T11:14:02Z"
+      },
+      "workflows": [],
+      "release": null
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "Queueguard": {
+    "repo": "Loccao102/Queueguard",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "04ce31dc9233491488d10b0d4afc69c197c6b568",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "5dda98e1eed4e560fc33e539863fc896f8fa5269",
+        "url": "https://github.com/Loccao102/Queueguard/blob/04ce31dc9233491488d10b0d4afc69c197c6b568/README.md"
+      },
+      {
+        "path": "go.mod",
+        "blobSha": "ef2ac765065155846fa41021cc732e6a2a922567",
+        "url": "https://github.com/Loccao102/Queueguard/blob/04ce31dc9233491488d10b0d4afc69c197c6b568/go.mod"
+      }
+    ]
+  },
+  "Agent-Guard": {
+    "repo": "Loccao102/Agent-Guard",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "1a717e10c5a44665b0318a522756eed44bae498b",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "e75940d49e4bf16264e1eab21545881fa9547ad9",
+        "url": "https://github.com/Loccao102/Agent-Guard/blob/1a717e10c5a44665b0318a522756eed44bae498b/README.md"
+      },
+      {
+        "path": "go.mod",
+        "blobSha": "2d6d5b517161412f53cfafc8802fda7adb1ba3a2",
+        "url": "https://github.com/Loccao102/Agent-Guard/blob/1a717e10c5a44665b0318a522756eed44bae498b/go.mod"
+      }
+    ]
+  },
+  "city-of-lies": {
+    "repo": "Loccao102/city-of-lies",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "f19684dfb425f245b2dcf274b0e752747b66281c",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "8f0ea2bbae101a5b1dd8e97d8ae0c19a6dc70bcc",
+        "url": "https://github.com/Loccao102/city-of-lies/blob/f19684dfb425f245b2dcf274b0e752747b66281c/README.md"
+      },
+      {
+        "path": "backend/go.mod",
+        "blobSha": "5318df18b410a25955ced52e68372ab62f8fb3c1",
+        "url": "https://github.com/Loccao102/city-of-lies/blob/f19684dfb425f245b2dcf274b0e752747b66281c/backend/go.mod"
+      },
+      {
+        "path": "frontend/package.json",
+        "blobSha": "b115c49ed112faf11292c1001c0d027b11d1cb50",
+        "url": "https://github.com/Loccao102/city-of-lies/blob/f19684dfb425f245b2dcf274b0e752747b66281c/frontend/package.json"
+      },
+      {
+        "path": "docs/IMPLEMENTATION_STATUS.md",
+        "blobSha": "0101e4c0f41f9616533fc3c68ff2592908a01714",
+        "url": "https://github.com/Loccao102/city-of-lies/blob/f19684dfb425f245b2dcf274b0e752747b66281c/docs/IMPLEMENTATION_STATUS.md"
+      }
+    ]
+  },
+  "SaasQuanLyPhongTro": {
+    "repo": "Loccao102/SaasQuanLyPhongTro",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "c9f1c09b1c492309f425aa504029ed878bc92861",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "6c7726241b6da8749822d9361b29e3292f5467cf",
+        "url": "https://github.com/Loccao102/SaasQuanLyPhongTro/blob/c9f1c09b1c492309f425aa504029ed878bc92861/README.md"
+      },
+      {
+        "path": "apps/api/package.json",
+        "blobSha": "d2c9d6e2a18b22801c6f3ea1674e5611a8f29fa3",
+        "url": "https://github.com/Loccao102/SaasQuanLyPhongTro/blob/c9f1c09b1c492309f425aa504029ed878bc92861/apps/api/package.json"
+      },
+      {
+        "path": "apps/admin/package.json",
+        "blobSha": "0db9831c27cd71844eae4e533ff3851887f115c8",
+        "url": "https://github.com/Loccao102/SaasQuanLyPhongTro/blob/c9f1c09b1c492309f425aa504029ed878bc92861/apps/admin/package.json"
+      },
+      {
+        "path": "docs/ROADMAP.md",
+        "blobSha": "2edaeead82f2efbd1a6387cc05dbcdb9e724b71f",
+        "url": "https://github.com/Loccao102/SaasQuanLyPhongTro/blob/c9f1c09b1c492309f425aa504029ed878bc92861/docs/ROADMAP.md"
+      },
+      {
+        "path": "develop.md",
+        "blobSha": "3eb14dd023f1dfb9ca2055e3f062d3f6b06dd5ff",
+        "url": "https://github.com/Loccao102/SaasQuanLyPhongTro/blob/c9f1c09b1c492309f425aa504029ed878bc92861/develop.md"
+      }
+    ]
+  },
+  "VeyraBot": {
+    "repo": "Loccao102/VeyraBot",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "5be0c20deaf5b6e92763985e1b47e9e022c51b83",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "8d11c01728e2d0445fb3dad21614a510c2fff515",
+        "url": "https://github.com/Loccao102/VeyraBot/blob/5be0c20deaf5b6e92763985e1b47e9e022c51b83/README.md"
+      },
+      {
+        "path": "package.json",
+        "blobSha": "2eaed4d15b28700a90e548dd9e13e46e4ac79453",
+        "url": "https://github.com/Loccao102/VeyraBot/blob/5be0c20deaf5b6e92763985e1b47e9e022c51b83/package.json"
+      },
+      {
+        "path": "DESKTOP.md",
+        "blobSha": "963e6f15fce8ee22b70f9dd72297c10ab5e2c52a",
+        "url": "https://github.com/Loccao102/VeyraBot/blob/5be0c20deaf5b6e92763985e1b47e9e022c51b83/DESKTOP.md"
+      }
+    ]
+  },
+  "VideoGet": {
+    "repo": "Loccao102/VideoGet",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "2a4423e45d8a0c28176256683758ebdc381866f0",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "849b0a9b2cbec156e3ad17ffcf7ceb2bfd93758b",
+        "url": "https://github.com/Loccao102/VideoGet/blob/2a4423e45d8a0c28176256683758ebdc381866f0/README.md"
+      },
+      {
+        "path": "go.mod",
+        "blobSha": "272f21de9e126290dd92fc11c4237e8f60d2cb33",
+        "url": "https://github.com/Loccao102/VideoGet/blob/2a4423e45d8a0c28176256683758ebdc381866f0/go.mod"
+      }
+    ]
+  },
+  "E-Classroom": {
+    "repo": "Loccao102/E-Classroom",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "502ec1b854eb53848e8256ffe757065491603930",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "a5a67676ed3779749879f36f93eacec4e525f7c9",
+        "url": "https://github.com/Loccao102/E-Classroom/blob/502ec1b854eb53848e8256ffe757065491603930/README.md"
+      },
+      {
+        "path": "services/core-api/pom.xml",
+        "blobSha": "61ae941845a8b2e7d09dd85bc596beae6a5d6d80",
+        "url": "https://github.com/Loccao102/E-Classroom/blob/502ec1b854eb53848e8256ffe757065491603930/services/core-api/pom.xml"
+      },
+      {
+        "path": "services/realtime-gateway/go.mod",
+        "blobSha": "469e33f99c077d462ec7de468b7f37e9aad012ca",
+        "url": "https://github.com/Loccao102/E-Classroom/blob/502ec1b854eb53848e8256ffe757065491603930/services/realtime-gateway/go.mod"
+      },
+      {
+        "path": "apps/web/package.json",
+        "blobSha": "5e4301e469fa3586ad9315686a1db568b7cfb41b",
+        "url": "https://github.com/Loccao102/E-Classroom/blob/502ec1b854eb53848e8256ffe757065491603930/apps/web/package.json"
+      },
+      {
+        "path": "docs/09-v1-completeness.md",
+        "blobSha": "39787379e71e2dc9f304999d2c0e64d16fb8ebdf",
+        "url": "https://github.com/Loccao102/E-Classroom/blob/502ec1b854eb53848e8256ffe757065491603930/docs/09-v1-completeness.md"
+      }
+    ]
+  },
+  "a-mini-SIEM-platform": {
+    "repo": "Loccao102/a-mini-SIEM-platform",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "054b1f2770ff1176e453412bac424201d56b30d0",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "a5d3b99ffb0c41275bcc6bc2939e8c016eaeb274",
+        "url": "https://github.com/Loccao102/a-mini-SIEM-platform/blob/054b1f2770ff1176e453412bac424201d56b30d0/README.md"
+      },
+      {
+        "path": "backend/go.mod",
+        "blobSha": "f072b3a8c8c6159a3d27fccb916176085e53ca19",
+        "url": "https://github.com/Loccao102/a-mini-SIEM-platform/blob/054b1f2770ff1176e453412bac424201d56b30d0/backend/go.mod"
+      },
+      {
+        "path": "frontend/package.json",
+        "blobSha": "ca06a29ad28b862c3f97b38c18bc85ef65cf22c4",
+        "url": "https://github.com/Loccao102/a-mini-SIEM-platform/blob/054b1f2770ff1176e453412bac424201d56b30d0/frontend/package.json"
+      }
+    ]
+  },
+  "3D-showcase": {
+    "repo": "Loccao102/3D-showcase",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "f2b5940e68d6b26a62566a2dc69fa6bbd92e9a66",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "252e744c0415a2ca2400ec05a74a4719fc1d8cd0",
+        "url": "https://github.com/Loccao102/3D-showcase/blob/f2b5940e68d6b26a62566a2dc69fa6bbd92e9a66/README.md"
+      },
+      {
+        "path": "apps/web/package.json",
+        "blobSha": "d04e36c00da96fd640cb24c3a3aed339476c5f4a",
+        "url": "https://github.com/Loccao102/3D-showcase/blob/f2b5940e68d6b26a62566a2dc69fa6bbd92e9a66/apps/web/package.json"
+      },
+      {
+        "path": "apps/api/go.mod",
+        "blobSha": "5d5843156448d80c3b9425c276b0b64fecb48bfc",
+        "url": "https://github.com/Loccao102/3D-showcase/blob/f2b5940e68d6b26a62566a2dc69fa6bbd92e9a66/apps/api/go.mod"
+      }
+    ]
+  },
+  "Void-Weaver": {
+    "repo": "Loccao102/Void-Weaver",
+    "reviewedAt": "2026-09-26T02:39:00.742Z",
+    "ref": "d3c05bf2126cbe5aa2bd942ac1d664fc543291ed",
+    "files": [
+      {
+        "path": "README.md",
+        "blobSha": "5ba6a512e8064de57778d9c1ca3cc12a6adfa4c3",
+        "url": "https://github.com/Loccao102/Void-Weaver/blob/d3c05bf2126cbe5aa2bd942ac1d664fc543291ed/README.md"
+      }
+    ]
+  }
+}
